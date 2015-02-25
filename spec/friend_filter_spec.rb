@@ -1,4 +1,5 @@
 require "friend_filter"
+require 'date'
 
 describe FriendFilter do
 
